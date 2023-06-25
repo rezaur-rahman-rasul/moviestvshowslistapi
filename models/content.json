@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Game Of Thrones",
+        "category": "TV Shows",
+        "duration":"60 min",
+        "origin":"United States of America",
+        "genre":"Sci-Fi & Fantasy, Drama, Action & Adventure"
+    },
+    {
+        "id": 2,
+        "title": "Extraction 2",
+        "category": "Movies",
+        "duration":"123 min",
+        "origin":"United States of America",
+        "genre":"Action, Thriller"
+    }
+]
